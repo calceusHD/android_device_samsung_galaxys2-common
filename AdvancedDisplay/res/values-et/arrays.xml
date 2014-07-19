@@ -16,14 +16,25 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Напредни екран</string>
-  <string name="defaults_button">Ресетуј на подразумевано</string>
-  <string name="category_screen_title">Екран</string>
-  <string name="screen_colors_title">Боје</string>
-  <string name="mdnie_scenario_title_head">Сценарио</string>
-  <string name="mdnie_scenario_summary_head">Постави mDNIe сценарио</string>
-  <string name="mdnie_mode_title_head">Режим</string>
-  <string name="mdnie_mode_summary_head">Постави mDNIe режим</string>
-  <string name="mdnie_negative_title_head">Негативни режим</string>
-  <string name="mdnie_negative_summary_head">Омогући/онемогући обрнуте боје</string>
+  <string-array name="mdnie_scenario_entries">
+    <item>CyanogenMod (vaikimisi)</item>
+    <item>UI</item>
+    <item>Video</item>
+    <item>Video soe</item>
+    <item>Video külm</item>
+    <item>Kaamera</item>
+    <item>Navigeerimine</item>
+    <item>Galerii</item>
+    <item>VT</item>
+  </string-array>
+  <string-array name="mdnie_mode_entries">
+    <item>Dünaamiline (vaikimisi)</item>
+    <item>Standard</item>
+    <item>Looduslik</item>
+    <item>Film</item>
+  </string-array>
+  <string-array name="mdnie_negative_entries">
+    <item>Tavaline</item>
+    <item>Negatiivne</item>
+  </string-array>
 </resources>

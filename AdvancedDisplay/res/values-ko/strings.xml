@@ -16,14 +16,14 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Напредни екран</string>
-  <string name="defaults_button">Ресетуј на подразумевано</string>
-  <string name="category_screen_title">Екран</string>
-  <string name="screen_colors_title">Боје</string>
-  <string name="mdnie_scenario_title_head">Сценарио</string>
-  <string name="mdnie_scenario_summary_head">Постави mDNIe сценарио</string>
-  <string name="mdnie_mode_title_head">Режим</string>
-  <string name="mdnie_mode_summary_head">Постави mDNIe режим</string>
-  <string name="mdnie_negative_title_head">Негативни режим</string>
-  <string name="mdnie_negative_summary_head">Омогући/онемогући обрнуте боје</string>
+  <string name="app_name">고급 디스플레이</string>
+  <string name="defaults_button">기본값으로 재설정</string>
+  <string name="category_screen_title">화면</string>
+  <string name="screen_colors_title">색상</string>
+  <string name="mdnie_scenario_title_head">시나리오</string>
+  <string name="mdnie_scenario_summary_head">mDNIe 시나리오 설정</string>
+  <string name="mdnie_mode_title_head">모드</string>
+  <string name="mdnie_mode_summary_head">mDNIe 모드 설정</string>
+  <string name="mdnie_negative_title_head">반전 모드</string>
+  <string name="mdnie_negative_summary_head">반전된 색상 사용/사용 중지</string>
 </resources>
